@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nishant-2411/Leetcode/tree/master/0146-lru-cache) |
+## Array
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/nishant-2411/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/nishant-2411/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 <!---LeetCode Topics End-->
