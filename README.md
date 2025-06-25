@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nishant-2411/Leetcode/tree/master/0069-sqrtx) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nishant-2411/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nishant-2411/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nishant-2411/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Two Pointers
 |  |
