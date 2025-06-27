@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nishant-2411/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/nishant-2411/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nishant-2411/Leetcode/tree/master/0069-sqrtx) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nishant-2411/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
