@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant-2411/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nishant-2411/Leetcode/tree/master/0012-integer-to-roman) |
 | [0146-lru-cache](https://github.com/nishant-2411/Leetcode/tree/master/0146-lru-cache) |
 ## String
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/nishant-2411/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nishant-2411/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/nishant-2411/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/nishant-2411/Leetcode/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/nishant-2411/Leetcode/tree/master/0071-simplify-path) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nishant-2411/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/nishant-2411/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/nishant-2411/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/nishant-2411/Leetcode/tree/master/0069-sqrtx) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nishant-2411/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
