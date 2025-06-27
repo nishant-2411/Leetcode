@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nishant-2411/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/nishant-2411/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nishant-2411/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/nishant-2411/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0071-simplify-path](https://github.com/nishant-2411/Leetcode/tree/master/0071-simplify-path) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/nishant-2411/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/nishant-2411/Leetcode/tree/master/0050-powx-n) |
 ## Stack
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nishant-2411/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nishant-2411/Leetcode/tree/master/0010-regular-expression-matching) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
