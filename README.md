@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant-2411/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/nishant-2411/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/nishant-2411/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0071-simplify-path](https://github.com/nishant-2411/Leetcode/tree/master/0071-simplify-path) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nishant-2411/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishant-2411/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nishant-2411/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nishant-2411/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
