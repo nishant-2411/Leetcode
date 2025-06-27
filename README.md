@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nishant-2411/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/nishant-2411/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nishant-2411/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/nishant-2411/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0071-simplify-path](https://github.com/nishant-2411/Leetcode/tree/master/0071-simplify-path) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nishant-2411/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
