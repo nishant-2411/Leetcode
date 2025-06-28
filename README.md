@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nishant-2411/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nishant-2411/Leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/nishant-2411/Leetcode/tree/master/0217-contains-duplicate) |
+| [0747-min-cost-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nishant-2411/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nishant-2411/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nishant-2411/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nishant-2411/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/nishant-2411/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Greedy
 |  |
