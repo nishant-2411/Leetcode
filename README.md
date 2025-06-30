@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nishant-2411/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0146-lru-cache](https://github.com/nishant-2411/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/nishant-2411/Leetcode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/nishant-2411/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nishant-2411/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant-2411/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0594-longest-harmonious-subsequence](https://github.com/nishant-2411/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nishant-2411/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nishant-2411/Leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/nishant-2411/Leetcode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/nishant-2411/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nishant-2411/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/nishant-2411/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/nishant-2411/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Trie
 |  |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/nishant-2411/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/nishant-2411/Leetcode/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/nishant-2411/Leetcode/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/nishant-2411/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nishant-2411/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nishant-2411/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Heap (Priority Queue)
