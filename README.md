@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nishant-2411/Leetcode/tree/master/0217-contains-duplicate) |
 | [0594-longest-harmonious-subsequence](https://github.com/nishant-2411/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nishant-2411/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/nishant-2411/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Memoization
 |  |
 | ------- |
