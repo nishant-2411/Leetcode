@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/nishant-2411/Leetcode/tree/master/0071-simplify-path) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/nishant-2411/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
 |  |
 | ------- |
