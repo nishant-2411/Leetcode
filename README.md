@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/nishant-2411/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/nishant-2411/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/nishant-2411/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Sliding Window
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3618-find-the-original-typed-string-ii](https://github.com/nishant-2411/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
 ## Greedy
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nishant-2411/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nishant-2411/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nishant-2411/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/nishant-2411/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
