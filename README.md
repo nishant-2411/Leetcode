@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/nishant-2411/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nishant-2411/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/nishant-2411/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3857-find-maximum-number-of-non-intersecting-substrings](https://github.com/nishant-2411/Leetcode/tree/master/3857-find-maximum-number-of-non-intersecting-substrings) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishant-2411/Leetcode/tree/master/0070-climbing-stairs) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nishant-2411/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/nishant-2411/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Divide and Conquer
 |  |
